@@ -48,12 +48,12 @@ for ($i = 0; ; $i ++) {
         $ret->link = new StdClass;
     }
 
-    if (property_exists($data, 'usebookmode')) {
-        unset($data->usebookmode);
+    if (property_exists($data, 'usebookmode') and $data->usebookmode) {
         $ret->link->collaborate = "https://g0v.hackmd.io/@jothon/g0v-hackath{$i}n";
     } else {
         $ret->link->collaborate = "https://beta.hackfoldr.org/g0v-hackath{$i}n";
     }
+    unset($data->usebookmode);
 
     unset($data->subtitle);
     if (json_encode($data) != '{}') {
