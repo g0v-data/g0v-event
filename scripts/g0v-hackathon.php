@@ -30,6 +30,8 @@ for ($i = 0; ; $i ++) {
             $ret->time = new StdClass;
             $ret->time->date = $v;
         } elseif (in_array($k, [
+            'video_pitch',
+            'video_talk',
             'video_demo',
         ])) {
             if (!property_exists($ret, 'video')) {
@@ -40,6 +42,23 @@ for ($i = 0; ; $i ++) {
             continue;
         }
         unset($data->{$k});
+    }
+
+    if (!property_exists($ret, 'link')) {
+        $ret->link = new StdClass;
+    }
+
+    if (property_exists($data, 'usebookmode')) {
+        unset($data->usebookmode);
+        $ret->link->collaborate = "https://g0v.hackmd.io/@jothon/g0v-hackath{$i}n";
+    } else {
+        $ret->link->collaborate = "https://beta.hackfoldr.org/g0v-hackath{$i}n";
+    }
+
+    unset($data->subtitle);
+    if (json_encode($data) != '{}') {
+        print_r($data);
+        throw new Exception("{$target} 有多餘資料");
     }
 
     $kktix_id = $ret->id;
@@ -83,9 +102,6 @@ for ($i = 0; ; $i ++) {
     }
     if (is_null($kktix_data)) {
         throw new Exception("找不到 {$kktix_id}");
-    }
-    if (!property_exists($ret, 'link')) {
-        $ret->link = new StdClass;
     }
     $kktix_data = $kktix_data[0];
     $ret->link->event = $kktix_data->url;
