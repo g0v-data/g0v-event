@@ -1,11 +1,23 @@
 {
     "name": "台灣零時政府第伍拾壹次大肚山海豚黑客松 x 水保局",
-    "subtitle": "真的假的！去年殘念的台中黑客松，時隔一年要以「大肚山海豚」之姿回歸了！\n",
-    "id": 51,
-    "date": "2022/08/20",
-    "video_pitch": "https://www.youtube.com/playlist?list=PLdwQWxpS513DYjj7Wq-5-jOQAqrXmJabs",
-    "video_talk": "https://www.youtube.com/playlist?list=PLdwQWxpS513D2nup6IEf9Jsd3tK51BnBJ",
-    "video_demo": "https://www.youtube.com/playlist?list=PLdwQWxpS513A0l5ZMDEwwwrjoBIpg2sWL",
-    "usebookmode": false,
-    "description": "真的假的！去年殘念的台中黑客松，時隔一年要以「大肚山海豚」之姿回歸了！g0v 第伍拾次黑客松與農委會水保局共同合辦，邀請大家一起為歷史影像定位，有更多好吃好玩的事情即將在 g0v 社群發生，邀請你 8/20 加入台中大松現場，一起邊玩邊做專案！"
+    "id": "g0v-hackath51n",
+    "time": {
+        "date": "2022\/08\/20",
+        "time_start": "2022-08-20T09:30:00.000+08:00",
+        "time_end": "2022-08-20T17:00:00.000+08:00"
+    },
+    "video": {
+        "video_pitch": "https:\/\/www.youtube.com\/playlist?list=PLdwQWxpS513DYjj7Wq-5-jOQAqrXmJabs",
+        "video_talk": "https:\/\/www.youtube.com\/playlist?list=PLdwQWxpS513D2nup6IEf9Jsd3tK51BnBJ",
+        "video_demo": "https:\/\/www.youtube.com\/playlist?list=PLdwQWxpS513A0l5ZMDEwwwrjoBIpg2sWL"
+    },
+    "description": "真的假的！去年殘念的台中黑客松，時隔一年要以「大肚山海豚」之姿回歸了！g0v 第伍拾次黑客松與農委會水保局共同合辦，邀請大家一起為歷史影像定位，有更多好吃好玩的事情即將在 g0v 社群發生，邀請你 8\/20 加入台中大松現場，一起邊玩邊做專案！",
+    "link": {
+        "collaborate": "https:\/\/g0v.hackmd.io\/@jothon\/g0v-hackath51n",
+        "event": "https:\/\/g0v-jothon.kktix.cc\/events\/g0v-hackath51n"
+    },
+    "location": {
+        "address": "台中市烏日區高鐵東一路26號4樓",
+        "name": "集思台中新烏日會議中心"
+    }
 }

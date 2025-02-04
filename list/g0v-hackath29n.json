@@ -1,10 +1,23 @@
 {
     "name": "台灣零時政府第貳拾玖次開放資料黑客松",
-    "subtitle": "與全世界 128 個活動共同響應「世界開放資料日」",
-    "id": 29,
-    "date": "2018/03/03",
-    "video_pitch": "https://www.youtube.com/watch?v=8AIass_ImOA&list=PLdwQWxpS513CllJ9hbmwZFwq7VFv9-T-2",
-    "video_talk": "https://www.youtube.com/watch?v=SDEC6hJu2dU&list=PLdwQWxpS513BclwPARGdNdhqYDgS_C-mi",
-    "video_demo": "https://www.youtube.com/watch?v=WBC78aXYyaQ&list=PLdwQWxpS513C1GfSu0fPUtvCcSJo9kUAh",
-    "description": "台灣零時政府 g0v.tw 雙月大黑客松 — 不只寫程式改造社會\n\n不要問為什麼沒有人做這個，先承認你就是沒有人！\n\n本次 g0v 大黑客松將於 3/3 日，與全世界 128 個活動共同響應「世界開放資料日」\n\nhttp://opendataday.org/\n"
+    "id": "g0v-hackath29n",
+    "time": {
+        "date": "2018\/03\/03",
+        "time_start": "2018-03-03T09:00:00.000+08:00",
+        "time_end": "2018-03-03T18:00:00.000+08:00"
+    },
+    "video": {
+        "video_pitch": "https:\/\/www.youtube.com\/watch?v=8AIass_ImOA&list=PLdwQWxpS513CllJ9hbmwZFwq7VFv9-T-2",
+        "video_talk": "https:\/\/www.youtube.com\/watch?v=SDEC6hJu2dU&list=PLdwQWxpS513BclwPARGdNdhqYDgS_C-mi",
+        "video_demo": "https:\/\/www.youtube.com\/watch?v=WBC78aXYyaQ&list=PLdwQWxpS513C1GfSu0fPUtvCcSJo9kUAh"
+    },
+    "description": "台灣零時政府 g0v.tw 雙月大黑客松 — 不只寫程式改造社會\n\n不要問為什麼沒有人做這個，先承認你就是沒有人！\n\n本次 g0v 大黑客松將於 3\/3 日，與全世界 128 個活動共同響應「世界開放資料日」\n\nhttp:\/\/opendataday.org\/\n",
+    "link": {
+        "collaborate": "https:\/\/beta.hackfoldr.org\/g0v-hackath29n",
+        "event": "https:\/\/g0v-jothon.kktix.cc\/events\/g0v-hackath29n"
+    },
+    "location": {
+        "address": "",
+        "name": "中央研究院資訊科學所"
+    }
 }

@@ -1,11 +1,23 @@
 {
     "name": "台灣零時政府第伍拾肆次兔兔黑客松 暨 零時小學校專案孵化競賽決選日",
-    "subtitle": "兔年第一場黑客松將首度和大家來到國教院臺北院區，黑客松當天下午也同步舉行「零時小學校 2022-23 專案孵化競賽決選」活動，歡迎 g0vers 一起來開 🕳️，讓專案兔飛猛進，並持續以開源連結世界、行動取代兔槽 💪\n",
-    "id": 54,
-    "date": "2023/02/11",
-    "usebookmode": false,
-    "video_pitch": "https://www.youtube.com/watch?v=VWCyIab7HYU&list=PLdwQWxpS513DDSmxj_BQjinmACz4Dcve9",
-    "video_talk": "https://www.youtube.com/watch?v=-mh421If1Sw&list=PLdwQWxpS513BYm4ce_Tdp61MetOKOGIDa",
-    "video_demo": "https://www.youtube.com/watch?v=mGkZoGpiuP4&list=PLdwQWxpS513D9Y6rrGSJMu8fBijxiJV3E",
-    "description": "兔年第一場黑客松將首度和大家來到國教院臺北院區，黑客松當天下午也同步舉行「零時小學校 2022-23 專案孵化競賽決選」活動，歡迎 g0vers 一起來開 🕳️，讓專案兔飛猛進，並持續以開源連結世界、行動取代兔槽 💪\n"
+    "id": "g0v-hackath54n",
+    "time": {
+        "date": "2023\/02\/11",
+        "time_start": "2023-02-11T09:30:00.000+08:00",
+        "time_end": "2023-02-11T17:00:00.000+08:00"
+    },
+    "video": {
+        "video_pitch": "https:\/\/www.youtube.com\/watch?v=VWCyIab7HYU&list=PLdwQWxpS513DDSmxj_BQjinmACz4Dcve9",
+        "video_talk": "https:\/\/www.youtube.com\/watch?v=-mh421If1Sw&list=PLdwQWxpS513BYm4ce_Tdp61MetOKOGIDa",
+        "video_demo": "https:\/\/www.youtube.com\/watch?v=mGkZoGpiuP4&list=PLdwQWxpS513D9Y6rrGSJMu8fBijxiJV3E"
+    },
+    "description": "兔年第一場黑客松將首度和大家來到國教院臺北院區，黑客松當天下午也同步舉行「零時小學校 2022-23 專案孵化競賽決選」活動，歡迎 g0vers 一起來開 🕳️，讓專案兔飛猛進，並持續以開源連結世界、行動取代兔槽 💪\n",
+    "link": {
+        "collaborate": "https:\/\/g0v.hackmd.io\/@jothon\/g0v-hackath54n",
+        "event": "https:\/\/g0v-jothon.kktix.cc\/events\/g0v-hackath54n"
+    },
+    "location": {
+        "address": "台北市大安區和平東路一段179號",
+        "name": "國家教育研究院 臺北院區"
+    }
 }

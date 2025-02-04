@@ -1,7 +1,21 @@
 {
     "name": "台灣零時政府第參次客廳工廠黑客松",
-    "id": 3,
-    "date": "2013/06/08",
-    "video_demo": "https://www.youtube.com/watch?v=XyRm-lNncKk&list=PLdwQWxpS513BAw0LB3rmeyu92Qrsy6Wa2",
-    "description": "【號外！】此次黑客松增設最佳專案獎或最佳貢獻獎，獎品備有 COSCUP 門票四張。（感謝 @hlb、@pofeng、＠legist 提供個人贊助票，@ronnywang 提供VIP票券）\n\ng0v.tw 是一個致力於打造資訊透明化的社群，希望協作各種資訊專案改善台灣的公民環境。除了按讚分享，在忙碌的日常生活中如果做一點點，把成果開放出來，會有更多更驚奇的事情持續發生。\n\n接連三次黑客松，半年來各方好手響應 g0v 推出了【教育部萌典開放字典計畫】、【立院資料API】、【求職小幫手】、【開放標案資料】、【失蹤兒童協尋】等等。只要有想法有計畫，歡迎帶著點子來實作，享受一起動腦、解決問題、密集協作的腦力嘉年華。\n"
+    "id": "g0v-hackath3n",
+    "time": {
+        "date": "2013\/06\/08",
+        "time_start": "2013-06-08T09:00:00.000+08:00",
+        "time_end": "2013-06-08T18:00:00.000+08:00"
+    },
+    "video": {
+        "video_demo": "https:\/\/www.youtube.com\/watch?v=XyRm-lNncKk&list=PLdwQWxpS513BAw0LB3rmeyu92Qrsy6Wa2"
+    },
+    "description": "【號外！】此次黑客松增設最佳專案獎或最佳貢獻獎，獎品備有 COSCUP 門票四張。（感謝 @hlb、@pofeng、＠legist 提供個人贊助票，@ronnywang 提供VIP票券）\n\ng0v.tw 是一個致力於打造資訊透明化的社群，希望協作各種資訊專案改善台灣的公民環境。除了按讚分享，在忙碌的日常生活中如果做一點點，把成果開放出來，會有更多更驚奇的事情持續發生。\n\n接連三次黑客松，半年來各方好手響應 g0v 推出了【教育部萌典開放字典計畫】、【立院資料API】、【求職小幫手】、【開放標案資料】、【失蹤兒童協尋】等等。只要有想法有計畫，歡迎帶著點子來實作，享受一起動腦、解決問題、密集協作的腦力嘉年華。\n",
+    "link": {
+        "collaborate": "https:\/\/beta.hackfoldr.org\/g0v-hackath3n",
+        "event": "https:\/\/g0v-tw.kktix.cc\/events\/g0v-hackath3n-taipei"
+    },
+    "location": {
+        "address": "台北市南港區研究院路二段128號",
+        "name": "中研院資訊科學研究所"
+    }
 }

@@ -1,11 +1,23 @@
 {
     "name": "台灣零時政府第伍拾捌次 11 歲生日快樂黑客松",
-    "subtitle": "g0v.tw 即將在 1024 再長一歲了，邀請大家一起來大松提前慶賀 g0v 生日快樂！生日不僅意味對過去回顧更對未來抱有期許與展望，期待有越來越多熱血公民加入 💪\n",
-    "id": 58,
-    "date": "2023/10/15",
-    "usebookmode": false,
-    "video_pitch": "https://www.youtube.com/watch?v=jbqEpHz4nMI&list=PLdwQWxpS513DW5qQiS_J0ca6T-C2v3tL7",
-    "video_talk": "https://www.youtube.com/watch?v=YR4mDf2tuMk&list=PLdwQWxpS513C5e1SUfo_lZRJ-gYp4_1yt",
-    "video_demo": "https://www.youtube.com/watch?v=mjgrUYSe_44&list=PLdwQWxpS513BCwf_noQCWSWe2GxfvpU6P",
-    "description": "g0v.tw 即將在 1024 再長一歲了，邀請大家一起來大松提前慶賀 g0v 生日快樂！生日不僅意味對過去回顧更對未來抱有期許與展望，期待有越來越多熱血公民加入 💪\n"
+    "id": "g0v-hackath58n",
+    "time": {
+        "date": "2023\/10\/15",
+        "time_start": "2023-10-15T09:30:00.000+08:00",
+        "time_end": "2023-10-15T17:00:00.000+08:00"
+    },
+    "video": {
+        "video_pitch": "https:\/\/www.youtube.com\/watch?v=jbqEpHz4nMI&list=PLdwQWxpS513DW5qQiS_J0ca6T-C2v3tL7",
+        "video_talk": "https:\/\/www.youtube.com\/watch?v=YR4mDf2tuMk&list=PLdwQWxpS513C5e1SUfo_lZRJ-gYp4_1yt",
+        "video_demo": "https:\/\/www.youtube.com\/watch?v=mjgrUYSe_44&list=PLdwQWxpS513BCwf_noQCWSWe2GxfvpU6P"
+    },
+    "description": "g0v.tw 即將在 1024 再長一歲了，邀請大家一起來大松提前慶賀 g0v 生日快樂！生日不僅意味對過去回顧更對未來抱有期許與展望，期待有越來越多熱血公民加入 💪\n",
+    "link": {
+        "collaborate": "https:\/\/g0v.hackmd.io\/@jothon\/g0v-hackath58n",
+        "event": "https:\/\/g0v-jothon.kktix.cc\/events\/g0v-hackath58n"
+    },
+    "location": {
+        "address": "台北市南港區研究院路二段128號",
+        "name": "中央研究院資訊科學所"
+    }
 }

@@ -1,11 +1,23 @@
 {
     "name": "台灣零時政府第肆拾陸次九週年黑客松",
-    "subtitle": "g0v 黑客松即將重返實體現場啦！超過半年沒有在實體現場見面，「沒有人」或許已經很想念一起面對面做專案、吃東西的大松時光。",
-    "id": 46,
-    "date": "2021/10/23",
-    "video_pitch": "https://www.youtube.com/watch?v=hoKRprL-LyI&list=PLdwQWxpS513B3J2Tg1ULtXGH4Jde-XUBr",
-    "video_talk": "https://www.youtube.com/watch?v=gXa9gvszlbI&list=PLdwQWxpS513BEjK1CqWC89em6gC39EAHg",
-    "video_demo": "https://www.youtube.com/watch?v=9PEXKCKHah0&list=PLdwQWxpS513Dczp0sRtOym0H4Fofcl0Su",
-    "usebookmode": false,
-    "description": "g0v 黑客松即將重返實體現場啦！\n超過半年沒有在實體現場見面，「沒有人」或許已經很想念一起面對面做專案、吃東西的大松時光。為了慶祝 g0v.tw 自 2012 年成立以來，即將在 10/24 屆滿九週年，歡迎老朋友來敘舊、新朋友來入坑，一起慶祝 g0v.tw 的九歲生日吧！"
+    "id": "g0v-hackath46n",
+    "time": {
+        "date": "2021\/10\/23",
+        "time_start": "2021-10-23T09:00:00.000+08:00",
+        "time_end": "2021-10-23T17:00:00.000+08:00"
+    },
+    "video": {
+        "video_pitch": "https:\/\/www.youtube.com\/watch?v=hoKRprL-LyI&list=PLdwQWxpS513B3J2Tg1ULtXGH4Jde-XUBr",
+        "video_talk": "https:\/\/www.youtube.com\/watch?v=gXa9gvszlbI&list=PLdwQWxpS513BEjK1CqWC89em6gC39EAHg",
+        "video_demo": "https:\/\/www.youtube.com\/watch?v=9PEXKCKHah0&list=PLdwQWxpS513Dczp0sRtOym0H4Fofcl0Su"
+    },
+    "description": "g0v 黑客松即將重返實體現場啦！\n超過半年沒有在實體現場見面，「沒有人」或許已經很想念一起面對面做專案、吃東西的大松時光。為了慶祝 g0v.tw 自 2012 年成立以來，即將在 10\/24 屆滿九週年，歡迎老朋友來敘舊、新朋友來入坑，一起慶祝 g0v.tw 的九歲生日吧！",
+    "link": {
+        "collaborate": "https:\/\/g0v.hackmd.io\/@jothon\/g0v-hackath46n",
+        "event": "https:\/\/g0v-jothon.kktix.cc\/events\/g0v-hackath46n"
+    },
+    "location": {
+        "address": "台北市杭州南路一段24號",
+        "name": "集思交通部國際會議中心 3F 國際會議廳／GIS MOTC 3F Plenary Hall"
+    }
 }

@@ -1,9 +1,23 @@
 {
     "name": "台灣零時政府第柒次自由時代黑客松",
-    "id": 7,
-    "date": "2014/02/22",
-    "video_pitch": "https://www.youtube.com/watch?v=p-ecd2n4f4g&list=PLdwQWxpS513BWqFnI0qfGvXVFv9X2kk3x",
-    "video_talk": "https://www.youtube.com/watch?v=xbwLlofhN5E&list=PLdwQWxpS513ADAJgyGIFpwIZ7Z10Grh9j",
-    "video_demo": "https://www.youtube.com/watch?v=nuBhqg5CqcU&list=PLdwQWxpS513DNAtOk-xYD15Ho4WrSxN_u",
-    "description": "g0v.tw 每兩個月一回合黑客松，打造各式資訊透明化平台[1]，這次響應國際 Open Data Day，與世界各地同步進行黑客松。從資料透明開始，傳統/新興、虛擬/實體的公民參與繼續互相刺激交流，協作打造公民參與的新方法。\n\n本回合同時響應 Code for America 的 CodeAcross 活動確認！\n"
+    "id": "g0v-hackath7n",
+    "time": {
+        "date": "2014\/02\/22",
+        "time_start": "2014-02-22T09:00:00.000+08:00",
+        "time_end": "2014-02-22T18:00:00.000+08:00"
+    },
+    "video": {
+        "video_pitch": "https:\/\/www.youtube.com\/watch?v=p-ecd2n4f4g&list=PLdwQWxpS513BWqFnI0qfGvXVFv9X2kk3x",
+        "video_talk": "https:\/\/www.youtube.com\/watch?v=xbwLlofhN5E&list=PLdwQWxpS513ADAJgyGIFpwIZ7Z10Grh9j",
+        "video_demo": "https:\/\/www.youtube.com\/watch?v=nuBhqg5CqcU&list=PLdwQWxpS513DNAtOk-xYD15Ho4WrSxN_u"
+    },
+    "description": "g0v.tw 每兩個月一回合黑客松，打造各式資訊透明化平台[1]，這次響應國際 Open Data Day，與世界各地同步進行黑客松。從資料透明開始，傳統\/新興、虛擬\/實體的公民參與繼續互相刺激交流，協作打造公民參與的新方法。\n\n本回合同時響應 Code for America 的 CodeAcross 活動確認！\n",
+    "link": {
+        "collaborate": "https:\/\/beta.hackfoldr.org\/g0v-hackath7n",
+        "event": "https:\/\/g0v-tw.kktix.cc\/events\/g0v-hackath7n"
+    },
+    "location": {
+        "address": "台北市南港區研究院路二段128號",
+        "name": "中研院資訊科學研究所"
+    }
 }

@@ -1,11 +1,23 @@
 {
     "name": "台灣零時政府第肆拾次集合啦！老地方黑客松",
-    "subtitle": "集合啦！g0vers 們！",
-    "id": 40,
-    "date": "2020/07/25",
-    "usebookmode": false,
-    "video_pitch": "https://www.youtube.com/watch?v=V7oZa4EInwU&list=PLdwQWxpS513CEO4f8B5Svn8enJVnRYjTO",
-    "video_talk": "https://www.youtube.com/watch?v=n1ZZ7RkNzVo&list=PLdwQWxpS513AirjWIplXdAGAqiPkv71uS",
-    "video_demo": "https://www.youtube.com/watch?v=FigZ7HIxjH0&list=PLdwQWxpS513DuIqd7iFYc6V92f-DhDKng",
-    "description": "台灣零時政府 g0v.tw 雙月大黑客松 — 不只寫程式改造社會\n\n不要問為什麼沒有人做這個，先承認你就是沒有人！\n\n還記得老地方在哪裡嗎？《名偵探柯南》裡的阿笠博士因為忘記老地方在哪裡，而錯過了和初戀情人再續前緣的機會。為了不要錯過與公民科技相知相惜的機會，g0vers 們請將老地方牢記心中阿！\n"
+    "id": "g0v-hackath40n",
+    "time": {
+        "date": "2020\/07\/25",
+        "time_start": "2020-07-25T09:00:00.000+08:00",
+        "time_end": "2020-07-25T18:00:00.000+08:00"
+    },
+    "video": {
+        "video_pitch": "https:\/\/www.youtube.com\/watch?v=V7oZa4EInwU&list=PLdwQWxpS513CEO4f8B5Svn8enJVnRYjTO",
+        "video_talk": "https:\/\/www.youtube.com\/watch?v=n1ZZ7RkNzVo&list=PLdwQWxpS513AirjWIplXdAGAqiPkv71uS",
+        "video_demo": "https:\/\/www.youtube.com\/watch?v=FigZ7HIxjH0&list=PLdwQWxpS513DuIqd7iFYc6V92f-DhDKng"
+    },
+    "description": "台灣零時政府 g0v.tw 雙月大黑客松 — 不只寫程式改造社會\n\n不要問為什麼沒有人做這個，先承認你就是沒有人！\n\n還記得老地方在哪裡嗎？《名偵探柯南》裡的阿笠博士因為忘記老地方在哪裡，而錯過了和初戀情人再續前緣的機會。為了不要錯過與公民科技相知相惜的機會，g0vers 們請將老地方牢記心中阿！\n",
+    "link": {
+        "collaborate": "https:\/\/g0v.hackmd.io\/@jothon\/g0v-hackath40n",
+        "event": "https:\/\/g0v-jothon.kktix.cc\/events\/g0v-hackath40n"
+    },
+    "location": {
+        "address": "11529台灣台北市南港區研究院路二段128號",
+        "name": "中研院資訊所"
+    }
 }

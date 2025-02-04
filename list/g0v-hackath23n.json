@@ -1,9 +1,23 @@
 {
     "name": "台灣零時政府第貳拾參次開放資料黑客松",
-    "id": 23,
-    "date": "2017/03/04",
-    "video_pitch": "https://www.youtube.com/watch?v=PbQ7u4pH_5U&list=PLdwQWxpS513CzwZXV_HRBC-r232Gj77Jo",
-    "video_talk": "https://www.youtube.com/watch?v=ABfr24EtKuQ&list=PLdwQWxpS513COJYt1dlB5leLO5-Dc9PDn",
-    "video_demo": "https://www.youtube.com/watch?v=4YyLJhJZ0hw&list=PLdwQWxpS513DTWwerX2lYyO6I95aqjlla",
-    "description": "本次 g0v 大黑客松將於 3/4 日與全世界 130 個城市共同響應「[世界開放資料日](http://opendataday.org)」！\n\n今年 Open Data Day 主題：\n\n* Open Research Data\n* Tracking Public Money Flows\n* Open Data for Environment \n* Open Data for Human Rights\n\n不要錯過 3/4 週六，第貳拾參次開放資料黑客松，來吧！來提新專案、來做舊專案、來認識新朋友！讓開源、開幹、開花的公民行動精神繼續延燒。\n"
+    "id": "g0v-hackath23n",
+    "time": {
+        "date": "2017\/03\/04",
+        "time_start": "2017-03-04T09:00:00.000+08:00",
+        "time_end": "2017-03-04T18:00:00.000+08:00"
+    },
+    "video": {
+        "video_pitch": "https:\/\/www.youtube.com\/watch?v=PbQ7u4pH_5U&list=PLdwQWxpS513CzwZXV_HRBC-r232Gj77Jo",
+        "video_talk": "https:\/\/www.youtube.com\/watch?v=ABfr24EtKuQ&list=PLdwQWxpS513COJYt1dlB5leLO5-Dc9PDn",
+        "video_demo": "https:\/\/www.youtube.com\/watch?v=4YyLJhJZ0hw&list=PLdwQWxpS513DTWwerX2lYyO6I95aqjlla"
+    },
+    "description": "本次 g0v 大黑客松將於 3\/4 日與全世界 130 個城市共同響應「[世界開放資料日](http:\/\/opendataday.org)」！\n\n今年 Open Data Day 主題：\n\n* Open Research Data\n* Tracking Public Money Flows\n* Open Data for Environment \n* Open Data for Human Rights\n\n不要錯過 3\/4 週六，第貳拾參次開放資料黑客松，來吧！來提新專案、來做舊專案、來認識新朋友！讓開源、開幹、開花的公民行動精神繼續延燒。\n",
+    "link": {
+        "collaborate": "https:\/\/beta.hackfoldr.org\/g0v-hackath23n",
+        "event": "https:\/\/g0v-jothon.kktix.cc\/events\/g0v-hackath23n"
+    },
+    "location": {
+        "address": "",
+        "name": "中央研究院資訊科學所"
+    }
 }

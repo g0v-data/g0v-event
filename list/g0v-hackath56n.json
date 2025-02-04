@@ -1,11 +1,23 @@
 {
     "name": "台灣零時政府第伍拾陸次真的假的黑客松 x 水保局",
-    "subtitle": "本次黑客松將再度來到台中與大家相聚，和 #農委會水保局 共同合辦。除了邀請大家一起來開坑、也想和大家共同來為歷史影像定位，串連同一地點在不同時間軸上所發生的事件，並進一步分析同地區的水土災害原因與規模，盡可能避免同樣的災害再度發生。有些災害是人為引發的事故，也有些天然災害是可以靠人為的努力減少傷害。本次 7/1 大松想邀請你加入，一起分享觀點、一起協作，尋找實務上可能的解方。\n",
-    "id": 56,
-    "date": "2023/07/01",
-    "usebookmode": false,
-    "video_pitch": "https://www.youtube.com/playlist?list=PLdwQWxpS513Ct_-j1u2PH20clf86jJJfG",
-    "video_talk": "https://www.youtube.com/playlist?list=PLdwQWxpS513BtVOyYyoXqMBCZm0MIfoXt",
-    "video_demo": "https://www.youtube.com/playlist?list=PLdwQWxpS513BotPx7_cdfdhAh0toOyFPJ",
-    "description": "本次黑客松將再度來到台中與大家相聚，和 #農委會水保局 共同合辦。除了邀請大家一起來開坑、也想和大家共同來為歷史影像定位，串連同一地點在不同時間軸上所發生的事件，並進一步分析同地區的水土災害原因與規模，盡可能避免同樣的災害再度發生。有些災害是人為引發的事故，也有些天然災害是可以靠人為的努力減少傷害。本次 7/1 大松想邀請你加入，一起分享觀點、一起協作，尋找實務上可能的解方。\n"
+    "id": "g0v-hackath56n",
+    "time": {
+        "date": "2023\/07\/01",
+        "time_start": "2023-07-01T09:30:00.000+08:00",
+        "time_end": "2023-07-01T17:00:00.000+08:00"
+    },
+    "video": {
+        "video_pitch": "https:\/\/www.youtube.com\/playlist?list=PLdwQWxpS513Ct_-j1u2PH20clf86jJJfG",
+        "video_talk": "https:\/\/www.youtube.com\/playlist?list=PLdwQWxpS513BtVOyYyoXqMBCZm0MIfoXt",
+        "video_demo": "https:\/\/www.youtube.com\/playlist?list=PLdwQWxpS513BotPx7_cdfdhAh0toOyFPJ"
+    },
+    "description": "本次黑客松將再度來到台中與大家相聚，和 #農委會水保局 共同合辦。除了邀請大家一起來開坑、也想和大家共同來為歷史影像定位，串連同一地點在不同時間軸上所發生的事件，並進一步分析同地區的水土災害原因與規模，盡可能避免同樣的災害再度發生。有些災害是人為引發的事故，也有些天然災害是可以靠人為的努力減少傷害。本次 7\/1 大松想邀請你加入，一起分享觀點、一起協作，尋找實務上可能的解方。\n",
+    "link": {
+        "collaborate": "https:\/\/g0v.hackmd.io\/@jothon\/g0v-hackath56n",
+        "event": "https:\/\/g0v-jothon.kktix.cc\/events\/g0v-hackath56n"
+    },
+    "location": {
+        "address": "台中市烏日區高鐵東一路26號4樓",
+        "name": "集思台中新烏日會議中心"
+    }
 }
